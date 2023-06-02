@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'playfair_displayregular';
-    src: url('../warhawk1216/playfairdisplay-variablefont_wght-webfont.woff2') format('woff2'),
-         url('../warhawk1216/playfairdisplay-variablefont_wght-webfont.woff') format('woff');
+    src: url('playfairdisplay-variablefont_wght-webfont.woff2') format('woff2'),
+         url('playfairdisplay-variablefont_wght-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
