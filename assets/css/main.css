@@ -72,6 +72,33 @@ input, select, textarea {
 	appearance: none;
 }
 
+.container {
+	align-items: center;
+	justify-content: center;
+}
+
+img {
+	max-width: 25%;
+	max-height: 15%;
+	float: left;
+}
+
+.text {
+	font-size: 20px;
+	padding-left: 20px;
+	padding-top: 20%;
+	float: left;
+}
+
+.tab {
+	margin-left: 35px;
+}
+
+.wideTab {
+	margin-left: 95px;
+}
+
+
 /* Basic */
 
 	@-ms-viewport {
@@ -177,7 +204,7 @@ input, select, textarea {
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 0.5em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
