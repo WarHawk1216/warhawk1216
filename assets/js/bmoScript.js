@@ -42,7 +42,7 @@ behindLight.position.set(2, 2, -5);
 scene.add(behindLight);
 
 const controls = new OrbitControls(camera, renderer.domElement);
-camera.position.set(0,2,50);
+camera.position.set(0, 2, 50);
 controls.update();
 
 // const geometry = new THREE.BoxGeometry(1, 1, 1);
